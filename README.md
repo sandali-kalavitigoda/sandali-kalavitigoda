@@ -6,25 +6,10 @@ console.log( "Hi there I'm Sandali Kalavitigoda [website]: 👋");
 
 ## 💻 About Me
 
-- 🔭 I am a self-motivated and dedicated Software Engineering
-undergraduate with
-great problem-solving
-skills and also a good
-communicator who is
-able to understand
-complex technical
-concepts.  I have strong
-problem-solving and
-analytical skills. Self
-motivated and a quick
-learner. Aprat from the development side Im a creative in grapgic designing. I can adapt to any environment in a quick-time. Currently I am
-looking for opportunities in order to gain
-experience.
-
 - 🌱 Currently I'm learning Mongo, Express, React and node. 
 - 👯 I’m looking to collaborate with other self-motivated learning developers
 - 🥅 2021 Goals: Contribute more to UI/UX pojects
-- ⚡ Fun fact: I love to draw,design, play chess & listen music
+
 
 
 
